@@ -5,7 +5,7 @@ A modern, full-featured Employee Dashboard built with React and Tailwind CSS. Th
 
 ## Live Demo
 
-> Deploy to Vercel/Netlify and add your URL here.
+> https://employee-dashboard-amber-one.vercel.app/
 
 ## Features
 

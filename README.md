@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Dashboard
 
 A modern, full-featured Employee Dashboard built with React and Tailwind CSS. This application provides employees with tools to manage attendance, leave requests, team directory, and company announcements — including an AI-powered announcement summarizer.
@@ -186,3 +187,6 @@ Walk through in this order:
 ## License
 
 MIT
+=======
+# Employee-Dashboard
+>>>>>>> 0c4e1c8e772668b7a6729f38e86f57d8447c23af

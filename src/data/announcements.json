@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ann-001",
+    "title": "Q3 Company All-Hands Meeting",
+    "content": "Join us for our quarterly all-hands meeting on July 15th at 2:00 PM PST. We'll be discussing our Q2 achievements, upcoming product launches, and the new company-wide wellness program. All employees are expected to attend either in person at HQ or via the virtual meeting link. Please submit your questions in advance through the internal portal. Light refreshments will be served for in-person attendees. The meeting will also feature a special recognition segment for outstanding team contributions this quarter.",
+    "author": "Sarah Chen",
+    "department": "Leadership",
+    "date": "2026-07-01",
+    "priority": "high",
+    "category": "meeting"
+  },
+  {
+    "id": "ann-002",
+    "title": "New Remote Work Policy Update",
+    "content": "Effective August 1st, we're updating our remote work policy to offer more flexibility. Employees can now work remotely up to 3 days per week without manager pre-approval. The hybrid schedule should be coordinated with your team lead. Office days will remain Tuesday and Thursday for team collaboration. Please review the full policy document on the HR portal and acknowledge receipt by July 20th. IT support will be available for home office equipment requests.",
+    "author": "Emily Rodriguez",
+    "department": "Human Resources",
+    "date": "2026-06-28",
+    "priority": "medium",
+    "category": "policy"
+  },
+  {
+    "id": "ann-003",
+    "title": "Summer Team Building Event",
+    "content": "Save the date! Our annual summer team building event is scheduled for July 25th at Golden Gate Park. Activities include outdoor games, BBQ lunch, and a team trivia competition with prizes. Transportation from HQ will be provided. Please RSVP by July 10th and indicate any dietary restrictions. Family members are welcome to join the afternoon portion of the event starting at 3 PM.",
+    "author": "Lisa Thompson",
+    "department": "Marketing",
+    "date": "2026-06-25",
+    "priority": "low",
+    "category": "event"
+  },
+  {
+    "id": "ann-004",
+    "title": "Security Awareness Training Required",
+    "content": "All employees must complete the annual security awareness training by July 31st. The training covers phishing prevention, password best practices, and data handling procedures. Access the course through the Learning Management System. Non-completion may result in restricted system access. The training takes approximately 45 minutes and includes a short assessment. Contact IT security for any questions.",
+    "author": "David Kim",
+    "department": "Engineering",
+    "date": "2026-06-20",
+    "priority": "high",
+    "category": "compliance"
+  },
+  {
+    "id": "ann-005",
+    "title": "Office Maintenance - Floor 3 Closure",
+    "content": "Please note that the 3rd floor will be closed for HVAC maintenance on July 8th and 9th. Employees based on Floor 3 should work from alternative floors or remotely on these dates. Hot-desking is available on Floors 2 and 4. The maintenance work is expected to improve air quality and temperature control. Normal operations will resume on July 10th.",
+    "author": "Facilities Team",
+    "department": "Operations",
+    "date": "2026-06-18",
+    "priority": "medium",
+    "category": "facilities"
+  }
+]

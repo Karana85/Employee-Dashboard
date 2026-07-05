@@ -1,0 +1,69 @@
+{
+  "balance": {
+    "annual": { "total": 20, "used": 12, "remaining": 8 },
+    "sick": { "total": 10, "used": 2, "remaining": 8 },
+    "personal": { "total": 5, "used": 1, "remaining": 4 }
+  },
+  "requests": [
+    {
+      "id": "leave-003",
+      "startDate": "2026-07-20",
+      "endDate": "2026-07-24",
+      "type": "annual",
+      "days": 5,
+      "reason": "Summer vacation with family",
+      "status": "pending",
+      "submittedAt": "2026-06-28"
+    },
+    {
+      "id": "leave-001",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-12",
+      "type": "annual",
+      "days": 3,
+      "reason": "Family vacation",
+      "status": "approved",
+      "submittedAt": "2026-05-20"
+    },
+    {
+      "id": "leave-005",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-07",
+      "type": "annual",
+      "days": 5,
+      "reason": "Spring break travel",
+      "status": "approved",
+      "submittedAt": "2026-02-20"
+    },
+    {
+      "id": "leave-002",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-15",
+      "type": "sick",
+      "days": 1,
+      "reason": "Medical appointment",
+      "status": "approved",
+      "submittedAt": "2026-05-14"
+    },
+    {
+      "id": "leave-006",
+      "startDate": "2026-01-20",
+      "endDate": "2026-01-20",
+      "type": "sick",
+      "days": 1,
+      "reason": "Flu recovery day",
+      "status": "approved",
+      "submittedAt": "2026-01-19"
+    },
+    {
+      "id": "leave-004",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-01",
+      "type": "personal",
+      "days": 1,
+      "reason": "Personal errands",
+      "status": "approved",
+      "submittedAt": "2026-03-25"
+    }
+  ]
+}

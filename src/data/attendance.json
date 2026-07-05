@@ -1,0 +1,106 @@
+[
+  {
+    "id": "att-000",
+    "date": "2026-07-05",
+    "checkIn": null,
+    "checkOut": null,
+    "status": "weekend",
+    "hoursWorked": 0
+  },
+  {
+    "id": "att-001",
+    "date": "2026-07-04",
+    "checkIn": "09:00",
+    "checkOut": "18:00",
+    "status": "present",
+    "hoursWorked": 9.0
+  },
+  {
+    "id": "att-002",
+    "date": "2026-07-03",
+    "checkIn": "08:50",
+    "checkOut": "17:45",
+    "status": "present",
+    "hoursWorked": 8.9
+  },
+  {
+    "id": "att-003",
+    "date": "2026-07-02",
+    "checkIn": "09:15",
+    "checkOut": "18:10",
+    "status": "late",
+    "hoursWorked": 8.9
+  },
+  {
+    "id": "att-004",
+    "date": "2026-07-01",
+    "checkIn": "09:02",
+    "checkOut": "18:15",
+    "status": "present",
+    "hoursWorked": 9.2
+  },
+  {
+    "id": "att-005",
+    "date": "2026-06-30",
+    "checkIn": "08:55",
+    "checkOut": "17:45",
+    "status": "present",
+    "hoursWorked": 8.8
+  },
+  {
+    "id": "att-006",
+    "date": "2026-06-29",
+    "checkIn": "09:30",
+    "checkOut": "18:00",
+    "status": "late",
+    "hoursWorked": 8.5
+  },
+  {
+    "id": "att-007",
+    "date": "2026-06-28",
+    "checkIn": null,
+    "checkOut": null,
+    "status": "weekend",
+    "hoursWorked": 0
+  },
+  {
+    "id": "att-008",
+    "date": "2026-06-27",
+    "checkIn": null,
+    "checkOut": null,
+    "status": "weekend",
+    "hoursWorked": 0
+  },
+  {
+    "id": "att-009",
+    "date": "2026-06-26",
+    "checkIn": "09:00",
+    "checkOut": "18:30",
+    "status": "present",
+    "hoursWorked": 9.5
+  },
+  {
+    "id": "att-010",
+    "date": "2026-06-25",
+    "checkIn": "08:45",
+    "checkOut": "17:30",
+    "status": "present",
+    "hoursWorked": 8.75
+  },
+  {
+    "id": "att-011",
+    "date": "2026-06-24",
+    "checkIn": null,
+    "checkOut": null,
+    "status": "absent",
+    "hoursWorked": 0
+  },
+  {
+    "id": "att-012",
+    "date": "2026-06-23",
+    "checkIn": "09:10",
+    "checkOut": "18:00",
+    "status": "present",
+    "hoursWorked": 8.8
+  }
+]

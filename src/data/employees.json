@@ -1,0 +1,82 @@
+[
+  {
+    "id": "emp-001",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@company.com",
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+    "status": "active",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": "emp-002",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@company.com",
+    "role": "Engineering Manager",
+    "department": "Engineering",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+    "status": "active",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": "emp-003",
+    "name": "James Wilson",
+    "email": "james.wilson@company.com",
+    "role": "Product Designer",
+    "department": "Design",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=James",
+    "status": "active",
+    "location": "New York, NY"
+  },
+  {
+    "id": "emp-004",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@company.com",
+    "role": "HR Specialist",
+    "department": "Human Resources",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily",
+    "status": "active",
+    "location": "Austin, TX"
+  },
+  {
+    "id": "emp-005",
+    "name": "Michael Park",
+    "email": "michael.park@company.com",
+    "role": "Data Analyst",
+    "department": "Analytics",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Michael",
+    "status": "on-leave",
+    "location": "Seattle, WA"
+  },
+  {
+    "id": "emp-006",
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@company.com",
+    "role": "Marketing Lead",
+    "department": "Marketing",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lisa",
+    "status": "active",
+    "location": "Chicago, IL"
+  },
+  {
+    "id": "emp-007",
+    "name": "David Kim",
+    "email": "david.kim@company.com",
+    "role": "DevOps Engineer",
+    "department": "Engineering",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
+    "status": "active",
+    "location": "Remote"
+  },
+  {
+    "id": "emp-008",
+    "name": "Rachel Green",
+    "email": "rachel.green@company.com",
+    "role": "Finance Analyst",
+    "department": "Finance",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel",
+    "status": "active",
+    "location": "Boston, MA"
+  }
+]

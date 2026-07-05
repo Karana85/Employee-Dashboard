@@ -1,0 +1,12 @@
+{
+  "id": "emp-001",
+  "name": "Alex Morgan",
+  "email": "alex.morgan@company.com",
+  "role": "Senior Software Engineer",
+  "department": "Engineering",
+  "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+  "joinDate": "2021-03-15",
+  "phone": "+1 (555) 123-4567",
+  "location": "San Francisco, CA",
+  "manager": "Sarah Chen"
+}
